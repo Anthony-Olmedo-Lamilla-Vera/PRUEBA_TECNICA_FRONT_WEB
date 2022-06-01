@@ -128,8 +128,9 @@ gap: 1.25rem;
 
 }
 .seleccionado {
+  padding: 12px  5px;
   background-color: rgb(13, 74, 204);
-
+  border-radius:8px ;
   color: #fff;
 
 }
